@@ -3,6 +3,7 @@
 
 # Installation
 ```
+pip install colorama
 
 ```
 # Run
