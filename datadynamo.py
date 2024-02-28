@@ -1,6 +1,5 @@
-from text.text import text
-from tools.bluetooth.bluetooth import bluetooth
+from menu.menu import menu
 
 def datadynamo():
-    text()
+    menu()
 

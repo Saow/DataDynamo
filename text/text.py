@@ -2,6 +2,7 @@ import colorama
 from colorama import Fore, Style
 
 def text():
+    print("\033c")
     colorama.init()
 
     logo = f"""
@@ -17,3 +18,4 @@ def text():
     """
 
     print(logo)
+text()
